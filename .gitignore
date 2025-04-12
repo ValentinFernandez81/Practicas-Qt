@@ -1,0 +1,10 @@
+# .gitignore
+*.o
+*.obj
+*.pyc
+*.exe
+build/
+__pycache__/
+*.user
+*.log
+
