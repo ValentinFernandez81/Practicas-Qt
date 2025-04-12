@@ -20,19 +20,17 @@ Veo el video de una conferencia de la Universidad Carlos III de Madrid donde se 
 
 https://youtu.be/99meY8wGDTQ?si=m9rDSXQsyxcSugsY
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/99meY8wGDTQ?si=m9rDSXQsyxcSugsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## Objetivo 2:
+
 ## Planning de estudio de Qt Creator con C++ creando 4 miniproyectos.
 
 El planning consta de 4 miniproyectos.
 
 Estos proyectos cumplirían con 2 grandes finalidades didácticas:
 
-Los miniproyectos 1 y 2 ("Calculadora simple" y "Bloc de notas básico") cumplirían con la finalidad de **==aprender lo básico para crear interfaces gráficas y usar las señales y los slots.==**
+Los miniproyectos 1 y 2 ("Calculadora simple" y "Bloc de notas básico") cumplirían con la finalidad de **aprender lo básico para crear interfaces gráficas y usar las señales y los slots.**
 
-Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") cumplirían con la finalidad de ==**aprender a realizar conexiones con Internet y bases de datos.**==
+Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") cumplirían con la finalidad de **aprender a realizar conexiones con Internet y bases de datos.**
 
 Objetivos proyecto 1:
 
