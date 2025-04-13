@@ -10,7 +10,7 @@ Después de que Javi nos comunicara el viernes vía Teams que tenía pensado asi
 
 Se trata de crear 4 miniproyectos. Los miniproyectos los dejaré en el repositorio que he creado destinado para ello. 
 
-Luego la práctica en sí la dejaré en el mismo repositorio de Github pero en una carpeta a parte llamada proyecto-empresa. Si en la práctica sería necesario ir añadiendo carpetas las añadiré como subcarpetas de la carpeta raíz proyecto-empresa.
+Luego la práctica en sí la dejaré en el mismo repositorio de Github pero en una carpeta a parte llamada proyecto-empresa. Si en la práctica sería necesario ir añadiendo carpetas las añadiré como subcarpetas de la carpeta raíz ProyectoEmpresa.
 
 ```Practicas-Qt/
 ├── Objetivos1/
