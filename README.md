@@ -12,6 +12,16 @@ Se trata de crear 4 miniproyectos. Los miniproyectos los dejaré en el repositor
 
 Luego la práctica en sí la dejaré en el mismo repositorio de Github pero en una carpeta a parte llamada proyecto-empresa. Si en la práctica sería necesario ir añadiendo carpetas las añadiré como subcarpetas de la carpeta raíz proyecto-empresa.
 
+Practicas-Qt/
+├── Objetivos1/
+│   ├── Calculadora/
+│   └── BlocDeNotas/
+├── Objetivos2/
+│   ├── APIChistes/
+│   └── ChistesDB/
+└── ProyectoEmpresa/
+
+
 ## Objetivo 1:
 
 Ver un video para conocer qué es Qt.
