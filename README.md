@@ -32,7 +32,7 @@ Los miniproyectos 1 y 2 ("Calculadora simple" y "Bloc de notas básico") cumplir
 
 Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") cumplirían con la finalidad de **aprender a realizar conexiones con Internet y bases de datos.**
 
-Objetivos proyecto 1:
+## Objetivos proyecto 1:
 
 - Revisar el entorno de Qt Creator y cómo estructurar un proyecto Qt.
 - Aprender conceptos:
