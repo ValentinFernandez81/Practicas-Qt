@@ -30,7 +30,7 @@ Estos proyectos cumplirían con 2 grandes finalidades didácticas:
 
 Los miniproyectos 1 y 2 ("Calculadora simple" y "Bloc de notas básico") cumplirían con la finalidad de **aprender lo básico para crear interfaces gráficas y usar las señales y los slots.**
 
-Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") cumplirían con la finalidad de **aprender a realizar conexiones con Internet y bases de datos.**
+Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") cumplirían con la finalidad de **aprender a realizar conexiones con Internet y base de datos.**
 
 ## Objetivos proyecto 1:
 
