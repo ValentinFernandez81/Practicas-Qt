@@ -1,12 +1,41 @@
-# .gitignore
+
+
+# Archivos de compilación
+build/
 *.o
 *.obj
-*.pyc
+*.lo
+*.la
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
 *.exe
-build/
-__pycache__/
-*.user
-*.log
-._*
-._*
+*.out
 
+# Archivos de CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Archivos generados por Qt Creator
+*.autosave
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.*
+*.creator
+*.kate-swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
