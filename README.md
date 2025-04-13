@@ -42,7 +42,7 @@ Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") 
 - Practicar conectando un botón a una función (slot).
 
 
-🛠️ Mini proyecto:
+ Mini proyecto:
 
 **"Calculadora simple"**
 
