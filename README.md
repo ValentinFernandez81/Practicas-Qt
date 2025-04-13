@@ -37,7 +37,7 @@ https://youtu.be/99meY8wGDTQ?si=m9rDSXQsyxcSugsY
 
 El planning consta de 4 miniproyectos.
 
-Estos proyectos cumplirían con 2 grandes finalidades didácticas:
+Estos proyectos cumplirían con 2 finalidades didácticas:
 
 Los miniproyectos 1 y 2 ("Calculadora simple" y "Bloc de notas básico") cumplirían con la finalidad de **aprender lo básico para crear interfaces gráficas y usar las señales y los slots.**
 
