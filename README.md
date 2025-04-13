@@ -57,5 +57,5 @@ Los miniproyectos 3 y 4 ("Api de chistes" y "Guardar chistes en base de datos") 
 
 **"Calculadora simple"**
 
-- Interfaz con botones 0-9, +, -, =.
-- Mostar el resultado en una `QLabel`.
+- Interfaz campos de texto (SpinBox), TextLabels, botones: +, -, x...
+- Mostar el resultado en una TextLabel.
