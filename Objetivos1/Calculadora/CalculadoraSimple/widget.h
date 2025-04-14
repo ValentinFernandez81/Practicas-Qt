@@ -17,6 +17,15 @@ public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
 
+private slots:
+    void on_suma_clicked();
+
+    void on_resta_clicked();
+
+    void on_multiplica_clicked();
+
+    void on_divide_clicked();
+
 private:
     Ui::Widget *ui;
 };
